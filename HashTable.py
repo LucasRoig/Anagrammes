@@ -46,3 +46,4 @@ class HashTable():
 
     #def getAllWords(self):
         #return self.dictionnaire.items()
+

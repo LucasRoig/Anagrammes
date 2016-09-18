@@ -32,3 +32,4 @@ class TreeNode():
             currentWord.append(child.value)
             child.printAllWords(currentWord)
             currentWord.pop()
+
